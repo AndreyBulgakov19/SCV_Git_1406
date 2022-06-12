@@ -65,3 +65,5 @@ git config --global user.email "ваша почта@example.com"
 # Игнорировать все папки с название keys
 keys/
 ```
+
+## 9. Работа с ветками
